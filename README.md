@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 💡 **Pro Tip**: Experiment with additional features like editing notes or adding categories to further enhance the app!
 
-🌟 If you like this project, don't forget to give it a star on [GitHub](https://github.com/yourusername/mini-notes-app)!
+🌟 If you like this project, don't forget to give it a star on [GitHub](https://github.com/visheshJS/Notes-Site)!
