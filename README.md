@@ -15,7 +15,7 @@ Welcome to the **Mini Notes App**! This simple and elegant web-based application
 
 ## 🖥️ Preview
 
-<img src="images/Screenshot 2024-12-13 020425.png" alt="Notes App Preview" width="600">
+<img src="images/Screenshot 2024-12-13 020425.png" alt="Notes App Preview" width="700">
 
 Try it out: [Mini Notes App Live Demo](https://your-live-demo-link-here.com) *(Replace this with the actual link to your app if hosted)*
 
