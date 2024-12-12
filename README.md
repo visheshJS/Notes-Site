@@ -14,7 +14,7 @@ Welcome to the **Mini Notes App**! This simple and elegant web-based application
 - Your notes are stored in **local storage**, so they won't disappear even if you refresh the page.
 
 ## 🖥️ Preview
-![Notes App Preview](https://via.placeholder.com/800x400.png?text=Notes+App+Preview)
+![Notes App Preview](images/Screenshot2024-12-13020425.png")
 
 Try it out: [Mini Notes App Live Demo](https://your-live-demo-link-here.com) *(Replace this with the actual link to your app if hosted)*
 
