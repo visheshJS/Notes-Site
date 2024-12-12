@@ -24,37 +24,6 @@ Try it out: [Mini Notes App Live Demo](https://your-live-demo-link-here.com) *(R
 - **CSS**: Styling for an attractive and responsive UI
 - **JavaScript**: Dynamic functionality and local storage implementation
 
-## 🏗️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mini-notes-app.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd mini-notes-app
-   ```
-
-3. Open the `index.html` file in your browser:
-   ```bash
-   open index.html
-   ```
-
-4. Start adding your notes and manage them as needed!
-
-## 📂 File Structure
-
-```
-mini-notes-app
-├── index.html  # Main HTML file
-├── style.css   # CSS for styling
-├── script.js   # JavaScript for functionality
-└── README.md   # Project documentation
-```
-
-## 📸 Screenshot
-![App Screenshot](https://via.placeholder.com/800x400.png?text=App+Screenshot) *(Replace with your app screenshot)*
 
 ## ✨ Highlights
 
