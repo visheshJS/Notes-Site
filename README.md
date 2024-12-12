@@ -17,7 +17,7 @@ Welcome to the **Mini Notes App**! This simple and elegant web-based application
 
 <img src="images/Screenshot 2024-12-13 020425.png" alt="Notes App Preview" width="850">
 
-Try it out: [Mini Notes App Live Demo](https://sprightly-bublanina-20f391.netlify.app) 
+Try it out: [Mini Notes App Live Demo](https://addyournotes-visheshjs.netlify.app/) 
 
 ## 🛠️ Technologies Used
 
